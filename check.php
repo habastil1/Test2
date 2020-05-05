@@ -1,7 +1,7 @@
 <?php
 
 $visited_town = array(
-                        'Algeries'=> 250,
+                        'Algiers'=> 250,
                         'Tiaret' => 300,
                         'Oron' => 400);
 
